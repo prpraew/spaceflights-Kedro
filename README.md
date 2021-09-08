@@ -1,4 +1,6 @@
 # space
+## Result: Pipeline visualization
+![kedro-pipeline](https://user-images.githubusercontent.com/89658443/132558185-f083111f-ce92-42db-a989-085b729ddb74.png)
 
 ## Overview
 
